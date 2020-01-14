@@ -12,7 +12,7 @@ The resolution of the images is very low as it was meant to be usable with a 56k
 So, this tool is completely useless but I just refound it in my archives...
 
 <p float="middle">
-    <img src="screenshot.png.png" width="600">
+    <img src="screenshot.png" width="600">
 </p>
 
 Look at the examples [carte.exe](carte.exe) to test the map.
