@@ -8,14 +8,14 @@ I wrote this small software in 2005 when I was 15/16 years old. This is a intera
 Since I did that as a teenager, everything is in French.
 The software is written in Flash/ActionScript (it was in 2005).
 Therefore, it is probably impossible to open and edit the software with modern tools.
-The resolution of the images is very low as it was meant to be usable with a 56k modem.
+The resolution of the images is very low as it was meant to be usable with a 56k modem!
 So, this tool is completely useless but I just refound it in my archives...
 
 <p float="middle">
     <img src="screenshot.png" width="600">
 </p>
 
-Look at the examples [carte.exe](carte.exe) to test the map.
+Look at [carte.exe](carte.exe) to test the map.
 
 ## Author
 
