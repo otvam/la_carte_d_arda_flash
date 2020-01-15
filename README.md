@@ -1,6 +1,6 @@
 # La Carte d'Arda / Interactive Lord of the Rings Map
 
-I wrote this small software in 2005 when I was 15/16 years old. This is a interactive Lord of the Rings Map:
+I wrote this small software in 2005 when I was 15/16 years old. This is a **interactive Lord of the Rings Map**:
 * Navigation through the map
 * Clicking on location to get information
 * Displaying the itinerary of the characters
