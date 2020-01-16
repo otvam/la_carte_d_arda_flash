@@ -1,4 +1,4 @@
-# La Carte d'Arda / Interactive Lord of the Rings Map
+# La Carte d'Arda: Interactive Lord of the Rings map
 
 I wrote this small software in 2005 when I was 15/16 years old. This is a **interactive Lord of the Rings Map**:
 * Navigation through the map
@@ -15,7 +15,7 @@ So, this tool is completely useless but I just refound it in my archives...
     <img src="screenshot.png" width="600">
 </p>
 
-Look at [carte.exe](carte.exe) to test the map.
+Look at [carte.exe](carte.exe) to test the map on windows ([carte.swf](carte.swf) on Linux).
 
 ## Author
 
