@@ -1,5 +1,10 @@
 # La Carte d'Arda: Interactive Lord of the Rings map
 
+![license - GPL](https://img.shields.io/badge/license-GPL-green)
+![language - flash](https://img.shields.io/badge/language-flash-blue)
+![category - hobby](https://img.shields.io/badge/category-hobby-lightgrey)
+![status - unmaintained](https://img.shields.io/badge/status-unmaintained-red)
+
 I wrote this small software in 2005 when I was 15/16 years old. This is a **interactive Lord of the Rings Map**:
 * Navigation through the map
 * Clicking on location to get information
